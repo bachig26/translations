@@ -5,5 +5,7 @@
     "DOWNLOAD": "Herunterladen",
     "SPROVIDER": "Anbieter wechseln",
     "DSHOW": "Die Ganze Serie herunterladen",
-    "DSEASON": "Eine Staffel herunterladen"
+    "DSEASON": "Eine Staffel herunterladen",
+    "SEASON": "Staffel",
+    "EPISODE": "Episode"
 }

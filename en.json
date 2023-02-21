@@ -5,5 +5,7 @@
     "DOWNLOAD": "Download",
     "SPROVIDER": "Switch Provider",
     "DSHOW": "Download Show",
-    "DSEASON": "Download Season"
+    "DSEASON": "Download Season",
+    "SEASON": "Season",
+    "EPISODE": "Episode"
 }
